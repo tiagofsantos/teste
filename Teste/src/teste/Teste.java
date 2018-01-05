@@ -8,6 +8,7 @@ package teste;
 /**
  *
  * @author Ruben
+ * @author Tiago
  */
 public class Teste {
 
