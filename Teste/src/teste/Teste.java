@@ -17,6 +17,11 @@ public class Teste {
      */
     public static void main(String[] args) {
         adeus!!
+            hello();
+    }
+    
+    public void hello(){
+        System.out.println("Hello");
     }
     
 }
