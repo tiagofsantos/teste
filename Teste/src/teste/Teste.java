@@ -21,7 +21,7 @@ public class Teste {
     }
     
     public void hello(){
-        System.out.println("Hello");
+        System.out.println("123");
     }
     
 }
